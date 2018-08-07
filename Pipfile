@@ -6,6 +6,11 @@ verify_ssl = true
 
 numpy = "*"
 pandas = "*"
+scipy = "*"
+scikit-learn = "*"
+tensorflow = "*"
+keras = "*"
+matplotlib = "*"
 
 [requires]
 
